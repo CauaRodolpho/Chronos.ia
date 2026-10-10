@@ -8,9 +8,9 @@
   O <strong>Chronos.ai</strong> é uma aplicação web interativa de planejamento financeiro pessoal que utiliza inteligência artificial para gerar diagnósticos financeiros personalizados, ideias de renda extra e planos de ação práticos diretamente no navegador.
 </p>
 
-<p align="center">
-  🚀 <strong><a href="https://chronosai-one.vercel.app/" target="_blank">Acesse a Live Demo do Chronos.ai</a></strong>
-</p>
+## Demonstração
+
+[Acessar o Chronos.ai na Vercel](https://chronosai-one.vercel.app/)
 
 ---
 
